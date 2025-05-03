@@ -1,2 +1,2 @@
 
-print("Hello Hassan what's up guys")
+print("Hello Hassan what's up")
